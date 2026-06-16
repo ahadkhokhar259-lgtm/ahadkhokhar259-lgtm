@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm front end developer<br> I'm a frontend developer<br>I'm study IT
+I'm front end developer<br> I'm currently working on web development<br>I'm study IT
 
 
 # 💻 Tech Stack:
